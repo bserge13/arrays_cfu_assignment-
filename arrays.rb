@@ -18,4 +18,14 @@ fun_times = [false, true, true, false]
 # as it is third in line in the array.  
 puts fun_times[2]
 
+# knowing index position is an important part of 
+# Array data as it goes outside the norm of general understanding
+# of daily-use numerical sequence. Being mindful that
+# Array sequence starts with the first element (what's inside the brackets) 
+# being viewed as number 0 is important to remember if you 
+# wish to call on the correct element you're trying to reach. 
+# EXAMPLE: if we were to have our elements be, [1,2,3,4], 
+# to call on the number 3, we would call on [2] vs [3]. 
+# If we had elements, [9,8,7,6], and wanted to call number 9,
+# we would call [0] vs [1]. 
 
