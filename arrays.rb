@@ -29,3 +29,15 @@ puts fun_times[2]
 # If we had elements, [9,8,7,6], and wanted to call number 9,
 # we would call [0] vs [1]. 
 
+# One method that can be seen as useful when working with arrays
+# would be to REMOVE an element from your code. To do this, we use,
+# pop. To use the pop method for removal of an element, start how you
+# normaly would call on an element: 
+# ages = [12,13,14,15]
+# puts ages[2]
+# 14
+# If we were to want to remove element 15 we simply run:
+# puts ages.pop #=> 15
+# ages = [12,13,14]
+
+
