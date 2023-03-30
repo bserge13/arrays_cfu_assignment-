@@ -1,0 +1,7 @@
+# Self-evaluation questions 
+
+1. Confidence level with arrays to-date is fairly comfortable, but for sure something I know I'd like to work more on just to keep that comfort level. i can tell it makes for a useful ruby method being able to list off many different elements and be able to simply just call on one out of the list...so long as you remember the numerical sequence starts with 0.
+
+2. My goal is always to be able to move on from one lesson to the next having a firm grasp on the basic fondation of the previous lesson. For me, it just relies on repitition and understanding. A lot of that being written information and instruction, as well as repition and practice. Similar to git and github, using it regularly and often makes for it to become second nature. Knowing the difference between a .md vs .rb file by using it frequently, etc. The more practice and use, the more comfort there is with the method and reasoning behind it.
+
+3. Like git and github, do arrays play a frequent role in the lessons going forward? Like is this something we will be relying on for the next lesson where we'll get those continued reps, or is this something that will require outside studying IF becoming strong in it is desired?   
